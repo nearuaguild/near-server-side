@@ -53,8 +53,6 @@ Implementing server-side integration for communication with Near Protocol smart-
 - [![Express][express.js]][react-url]
 - [near-api-js (v1.1.0)](https://github.com/near/near-api-js)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ---
 
 <!-- GETTING STARTED -->
@@ -147,7 +145,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [github]: https://img.shields.io/badge/code-000000?style=for-the-badge&logo=github&logoColor=ffffff
 [twitter-url]: https://twitter.com/nearuaguild
 [youtube-url]: https://www.youtube.com/@nearprotocolukraineguild4064
-[medium-url]: https://www.youtube.com/@nearprotocolukraineguild4064
+[medium-url]: https://medium.com/near-protocol-ua
 [telegram-chat-url]: https://t.me/nearprotocolua
 [telegram-channel-url]: https://t.me/nearprotocoluachannel
 [github-url]: https://github.com/nearuaguild
