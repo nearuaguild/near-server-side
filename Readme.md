@@ -49,8 +49,8 @@ Implementing server-side integration for communication with Near Protocol smart-
 
 ### Built With
 
-- [![NodeJS][node.js]][next-url]
-- [![Express][express.js]][react-url]
+- [![NodeJS][node.js]](next-url)
+- [![Express][express.js]](react-url)
 - [near-api-js (v1.1.0)](https://github.com/near/near-api-js)
 
 ---
