@@ -49,9 +49,10 @@ Implementing server-side integration for communication with Near Protocol smart-
 
 ### Built With
 
-- [![NodeJS][node.js]](next-url)
-- [![Express][express.js]](react-url)
+- [![NodeJS][node.js]][node-url]
+- [![Express][express.js]][express-url]
 - [near-api-js (v1.1.0)](https://github.com/near/near-api-js)
+- [Near Protocol TypeScript interface generator](https://github.com/nearuaguild/near-rust-contract-types-generator)
 
 ---
 
